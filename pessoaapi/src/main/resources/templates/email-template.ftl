@@ -15,16 +15,16 @@
                         style="background-color: #d3be6c; font-family: Arial, Helvetica, sans-serif; font-size: 13px; color: #000000; padding: 0px 15px 10px 15px;">
 
                         <div style="font-size: 48px; color:blue;">
-                            <b>Olá ${nome}</b>
+                            <b>Java Mail</b>
                         </div>
 
                         <div style="font-size: 24px; color: #555100;">
-                            <br> Estamos felizes em ter você no nosso sistema :) <br> <b>Seu cadastro foi realizado com sucesso, seu identificador é ${id}</b> <br>
+                            <br> Sending Email using Spring Boot with <b>FreeMarker
+                            template !!!</b> <br>
                         </div>
                         <div>
-                            <br>Qualquer dúvida é só contatar o suporte pelo e-mail ${from} <br> <br>
-                            <br> <br> <b>Att, <br>
-                                        Sistema.</b>
+                            <br>"Sharing the knowledge is biggest learning" <br> <br>
+                            <br> <br> <b>${nome}</b>
                             <br>
                         </div>
                     </td>
